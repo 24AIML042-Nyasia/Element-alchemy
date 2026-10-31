@@ -1,0 +1,793 @@
+{
+  "base": [
+    "water",
+    "fire",
+    "earth",
+    "air"
+  ],
+  "elements": {
+    "water": {
+      "name": "Water",
+      "emoji": "💧"
+    },
+    "fire": {
+      "name": "Fire",
+      "emoji": "🔥"
+    },
+    "earth": {
+      "name": "Earth",
+      "emoji": "🌍"
+    },
+    "air": {
+      "name": "Air",
+      "emoji": "🌬️"
+    },
+    "steam": {
+      "name": "Steam",
+      "emoji": "♨️"
+    },
+    "mud": {
+      "name": "Mud",
+      "emoji": "🟫"
+    },
+    "energy": {
+      "name": "Energy",
+      "emoji": "⚡"
+    },
+    "cloud": {
+      "name": "Cloud",
+      "emoji": "☁️"
+    },
+    "lava": {
+      "name": "Lava",
+      "emoji": "🟠"
+    },
+    "dust": {
+      "name": "Dust",
+      "emoji": "🌫️"
+    },
+    "wind": {
+      "name": "Wind",
+      "emoji": "🍃"
+    },
+    "lake": {
+      "name": "Lake",
+      "emoji": "🏞️"
+    },
+    "ocean": {
+      "name": "Ocean",
+      "emoji": "🌊"
+    },
+    "rain": {
+      "name": "Rain",
+      "emoji": "🌧️"
+    },
+    "lightning": {
+      "name": "Lightning",
+      "emoji": "🌩️"
+    },
+    "brick": {
+      "name": "Brick",
+      "emoji": "🧱"
+    },
+    "stone": {
+      "name": "Stone",
+      "emoji": "🪨"
+    },
+    "sand": {
+      "name": "Sand",
+      "emoji": "⏳"
+    },
+    "glass": {
+      "name": "Glass",
+      "emoji": "🪟"
+    },
+    "ice": {
+      "name": "Ice",
+      "emoji": "🧊"
+    },
+    "snow": {
+      "name": "Snow",
+      "emoji": "❄️"
+    },
+    "storm": {
+      "name": "Storm",
+      "emoji": "⛈️"
+    },
+    "sky": {
+      "name": "Sky",
+      "emoji": "🌤️"
+    },
+    "sun": {
+      "name": "Sun",
+      "emoji": "☀️"
+    },
+    "rainbow": {
+      "name": "Rainbow",
+      "emoji": "🌈"
+    },
+    "plant": {
+      "name": "Plant",
+      "emoji": "🌱"
+    },
+    "tree": {
+      "name": "Tree",
+      "emoji": "🌳"
+    },
+    "flower": {
+      "name": "Flower",
+      "emoji": "🌸"
+    },
+    "wood": {
+      "name": "Wood",
+      "emoji": "🪵"
+    },
+    "mountain": {
+      "name": "Mountain",
+      "emoji": "⛰️"
+    },
+    "volcano": {
+      "name": "Volcano",
+      "emoji": "🌋"
+    },
+    "metal": {
+      "name": "Metal",
+      "emoji": "🔩"
+    },
+    "tool": {
+      "name": "Tool",
+      "emoji": "🔨"
+    },
+    "house": {
+      "name": "House",
+      "emoji": "🏠"
+    },
+    "campfire": {
+      "name": "Campfire",
+      "emoji": "🏕️"
+    },
+    "boat": {
+      "name": "Boat",
+      "emoji": "⛵"
+    },
+    "paper": {
+      "name": "Paper",
+      "emoji": "📄"
+    },
+    "life": {
+      "name": "Life",
+      "emoji": "🧬"
+    },
+    "fish": {
+      "name": "Fish",
+      "emoji": "🐟"
+    },
+    "bird": {
+      "name": "Bird",
+      "emoji": "🐦"
+    },
+    "animal": {
+      "name": "Animal",
+      "emoji": "🐾"
+    },
+    "human": {
+      "name": "Human",
+      "emoji": "🧑"
+    },
+    "bookshelf": {
+      "name": "Bookshelf",
+      "emoji": "🗃️"
+    },
+    "book": {
+      "name": "Book",
+      "emoji": "📓"
+    },
+    "electricity": {
+      "name": "Electricity",
+      "emoji": "🔌"
+    },
+    "computer": {
+      "name": "Computer",
+      "emoji": "💻"
+    },
+    "robot": {
+      "name": "Robot",
+      "emoji": "🤖"
+    },
+    "airplane": {
+      "name": "Airplane",
+      "emoji": "✈️"
+    },
+    "rocket": {
+      "name": "Rocket",
+      "emoji": "🚀"
+    },
+    "train": {
+      "name": "Train",
+      "emoji": "🚂"
+    },
+    "wheat": {
+      "name": "Wheat",
+      "emoji": "🌾"
+    },
+    "bread": {
+      "name": "Bread",
+      "emoji": "🍞"
+    },
+    "fruit": {
+      "name": "Fruit",
+      "emoji": "🍎"
+    },
+    "juice": {
+      "name": "Juice",
+      "emoji": "🧃"
+    },
+    "pizza": {
+      "name": "Pizza",
+      "emoji": "🍕"
+    },
+    "salt": {
+      "name": "Salt",
+      "emoji": "🧂"
+    },
+    "whale": {
+      "name": "Whale",
+      "emoji": "🐋"
+    },
+    "fossil": {
+      "name": "Fossil",
+      "emoji": "🦴"
+    },
+    "dinosaur": {
+      "name": "Dinosaur",
+      "emoji": "🦖"
+    },
+    "dragon": {
+      "name": "Dragon",
+      "emoji": "🐉"
+    },
+    "night": {
+      "name": "Night",
+      "emoji": "🌃"
+    },
+    "moon": {
+      "name": "Moon",
+      "emoji": "🌙"
+    },
+    "star": {
+      "name": "Star",
+      "emoji": "⭐"
+    },
+    "planet": {
+      "name": "Planet",
+      "emoji": "🪐"
+    },
+    "alien": {
+      "name": "Alien",
+      "emoji": "👽"
+    },
+    "astronaut": {
+      "name": "Astronaut",
+      "emoji": "🧑‍🚀"
+    },
+    "sword": {
+      "name": "Sword",
+      "emoji": "🗡️"
+    },
+    "clock": {
+      "name": "Clock",
+      "emoji": "🕰️"
+    },
+    "phone": {
+      "name": "Phone",
+      "emoji": "📱"
+    },
+    "guitar": {
+      "name": "Flute",
+      "emoji": "🪈"
+    },
+    "music": {
+      "name": "Music",
+      "emoji": "🎵"
+    },
+    "island": {
+      "name": "Island",
+      "emoji": "🏝️"
+    },
+    "desert": {
+      "name": "Desert",
+      "emoji": "🏜️"
+    },
+    "castle": {
+      "name": "Castle",
+      "emoji": "🏰"
+    },
+    "fog": {
+      "name": "Fog",
+      "emoji": "🌁"
+    },
+    "tornado": {
+      "name": "Tornado",
+      "emoji": "🌪️"
+    },
+    "hurricane": {
+      "name": "Hurricane",
+      "emoji": "🌀"
+    },
+    "mushroom": {
+      "name": "Mushroom",
+      "emoji": "🍄"
+    },
+    "cactus": {
+      "name": "Cactus",
+      "emoji": "🌵"
+    },
+    "leaf": {
+      "name": "Leaf",
+      "emoji": "🍂"
+    },
+    "forest": {
+      "name": "Forest",
+      "emoji": "🌲"
+    },
+    "sunflower": {
+      "name": "Sunflower",
+      "emoji": "🌻"
+    },
+    "diamond": {
+      "name": "Diamond",
+      "emoji": "💎"
+    },
+    "gold": {
+      "name": "Gold",
+      "emoji": "🥇"
+    },
+    "fireworks": {
+      "name": "Fireworks",
+      "emoji": "🎆"
+    },
+    "comet": {
+      "name": "Comet",
+      "emoji": "☄️"
+    },
+    "galaxy": {
+      "name": "Galaxy",
+      "emoji": "🌌"
+    },
+    "satellite": {
+      "name": "Satellite",
+      "emoji": "🛰️"
+    },
+    "ufo": {
+      "name": "UFO",
+      "emoji": "🛸"
+    },
+    "telescope": {
+      "name": "Telescope",
+      "emoji": "🔭"
+    },
+    "egg": {
+      "name": "Egg",
+      "emoji": "🥚"
+    },
+    "chicken": {
+      "name": "Chicken",
+      "emoji": "🐔"
+    },
+    "cow": {
+      "name": "Cow",
+      "emoji": "🐄"
+    },
+    "milk": {
+      "name": "Milk",
+      "emoji": "🥛"
+    },
+    "cheese": {
+      "name": "Cheese",
+      "emoji": "🧀"
+    },
+    "horse": {
+      "name": "Horse",
+      "emoji": "🐎"
+    },
+    "dog": {
+      "name": "Dog",
+      "emoji": "🐕"
+    },
+    "cat": {
+      "name": "Cat",
+      "emoji": "🐈"
+    },
+    "butterfly": {
+      "name": "Butterfly",
+      "emoji": "🦋"
+    },
+    "bee": {
+      "name": "Bee",
+      "emoji": "🐝"
+    },
+    "honey": {
+      "name": "Honey",
+      "emoji": "🍯"
+    },
+    "frog": {
+      "name": "Frog",
+      "emoji": "🐸"
+    },
+    "penguin": {
+      "name": "Penguin",
+      "emoji": "🐧"
+    },
+    "shark": {
+      "name": "Shark",
+      "emoji": "🦈"
+    },
+    "unicorn": {
+      "name": "Unicorn",
+      "emoji": "🦄"
+    },
+    "werewolf": {
+      "name": "Werewolf",
+      "emoji": "🐺"
+    },
+    "snowman": {
+      "name": "Snowman",
+      "emoji": "⛄"
+    },
+    "owl": {
+      "name": "Owl",
+      "emoji": "🦉"
+    },
+    "burger": {
+      "name": "Burger",
+      "emoji": "🍔"
+    },
+    "cake": {
+      "name": "Cake",
+      "emoji": "🎂"
+    },
+    "icecream": {
+      "name": "Ice Cream",
+      "emoji": "🍦"
+    },
+    "sandwich": {
+      "name": "Sandwich",
+      "emoji": "🥪"
+    },
+    "tea": {
+      "name": "Tea",
+      "emoji": "🍵"
+    },
+    "salad": {
+      "name": "Salad",
+      "emoji": "🥗"
+    },
+    "cookie": {
+      "name": "Cookie",
+      "emoji": "🍪"
+    },
+    "soup": {
+      "name": "Soup",
+      "emoji": "🍲"
+    },
+    "road": {
+      "name": "Road",
+      "emoji": "🛣️"
+    },
+    "car": {
+      "name": "Car",
+      "emoji": "🚗"
+    },
+    "bus": {
+      "name": "Bus",
+      "emoji": "🚌"
+    },
+    "bicycle": {
+      "name": "Bicycle",
+      "emoji": "🚲"
+    },
+    "helicopter": {
+      "name": "Helicopter",
+      "emoji": "🚁"
+    },
+    "ship": {
+      "name": "Ship",
+      "emoji": "🚢"
+    },
+    "tower": {
+      "name": "Tower",
+      "emoji": "🗼"
+    },
+    "town": {
+      "name": "Town",
+      "emoji": "🏘️"
+    },
+    "city": {
+      "name": "City",
+      "emoji": "🏙️"
+    },
+    "school": {
+      "name": "School",
+      "emoji": "🏫"
+    },
+    "bulb": {
+      "name": "Light Bulb",
+      "emoji": "💡"
+    },
+    "battery": {
+      "name": "Battery",
+      "emoji": "🔋"
+    },
+    "camera": {
+      "name": "Camera",
+      "emoji": "📷"
+    },
+    "tv": {
+      "name": "Television",
+      "emoji": "📺"
+    },
+    "internet": {
+      "name": "Internet",
+      "emoji": "🌐"
+    },
+    "key": {
+      "name": "Key",
+      "emoji": "🔑"
+    },
+    "lock": {
+      "name": "Lock",
+      "emoji": "🔒"
+    },
+    "magnet": {
+      "name": "Magnet",
+      "emoji": "🧲"
+    },
+    "compass": {
+      "name": "Compass",
+      "emoji": "🧭"
+    },
+    "map": {
+      "name": "Map",
+      "emoji": "🗺️"
+    },
+    "umbrella": {
+      "name": "Umbrella",
+      "emoji": "☂️"
+    },
+    "candle": {
+      "name": "Candle",
+      "emoji": "🕯️"
+    },
+    "anchor": {
+      "name": "Anchor",
+      "emoji": "⚓"
+    },
+    "piano": {
+      "name": "Piano",
+      "emoji": "🎹"
+    },
+    "microphone": {
+      "name": "Microphone",
+      "emoji": "🎤"
+    },
+    "headphones": {
+      "name": "Headphones",
+      "emoji": "🎧"
+    },
+    "painting": {
+      "name": "Painting",
+      "emoji": "🖼️"
+    },
+    "movie": {
+      "name": "Movie",
+      "emoji": "🎬"
+    },
+    "videogame": {
+      "name": "Video Game",
+      "emoji": "🎮"
+    },
+    "crown": {
+      "name": "Crown",
+      "emoji": "👑"
+    },
+    "builder": {
+      "name": "Builder",
+      "emoji": "👷"
+    },
+    "wizard": {
+      "name": "Wizard",
+      "emoji": "🧙"
+    },
+    "fairy": {
+      "name": "Fairy",
+      "emoji": "🧚"
+    },
+    "angel": {
+      "name": "Angel",
+      "emoji": "👼"
+    },
+    "princess": {
+      "name": "Princess",
+      "emoji": "👸"
+    },
+    "mermaid": {
+      "name": "Mermaid",
+      "emoji": "🧜"
+    },
+    "sunrise": {
+      "name": "Sunrise",
+      "emoji": "🌅"
+    },
+    "ash": {
+      "name": "Ash",
+      "emoji": "⚫"
+    }
+  },
+  "recipes": {
+    "fire+water": "steam",
+    "earth+water": "mud",
+    "air+fire": "energy",
+    "air+water": "cloud",
+    "earth+fire": "lava",
+    "air+earth": "dust",
+    "air+air": "wind",
+    "water+water": "lake",
+    "lake+lake": "ocean",
+    "cloud+water": "rain",
+    "cloud+energy": "lightning",
+    "fire+mud": "brick",
+    "lava+water": "stone",
+    "air+stone": "sand",
+    "fire+sand": "glass",
+    "air+rain": "ice",
+    "cloud+ice": "snow",
+    "lightning+rain": "storm",
+    "air+cloud": "sky",
+    "fire+sky": "sun",
+    "rain+sun": "rainbow",
+    "earth+rain": "plant",
+    "earth+plant": "tree",
+    "plant+sun": "flower",
+    "tool+tree": "wood",
+    "earth+stone": "mountain",
+    "lava+mountain": "volcano",
+    "fire+stone": "metal",
+    "metal+metal": "tool",
+    "brick+wood": "house",
+    "fire+wood": "campfire",
+    "lake+wood": "boat",
+    "water+wood": "paper",
+    "lightning+mud": "life",
+    "life+water": "fish",
+    "air+life": "bird",
+    "earth+life": "animal",
+    "animal+tool": "human",
+    "human+paper": "book",
+    "paper+paper": "book",
+    "book+book": "bookshelf",
+    "lightning+metal": "electricity",
+    "electricity+glass": "computer",
+    "computer+metal": "robot",
+    "air+metal": "airplane",
+    "airplane+fire": "rocket",
+    "metal+steam": "train",
+    "plant+wind": "wheat",
+    "fire+wheat": "bread",
+    "sun+tree": "fruit",
+    "fruit+water": "juice",
+    "bread+fire": "pizza",
+    "ocean+sun": "salt",
+    "animal+ocean": "whale",
+    "animal+stone": "fossil",
+    "animal+volcano": "dinosaur",
+    "dinosaur+fire": "dragon",
+    "moon+sky": "night",
+    "sky+stone": "moon",
+    "energy+sky": "star",
+    "earth+sky": "planet",
+    "life+planet": "alien",
+    "human+rocket": "astronaut",
+    "metal+tool": "sword",
+    "glass+metal": "clock",
+    "computer+tool": "phone",
+    "human+wood": "guitar",
+    "air+guitar": "music",
+    "earth+ocean": "island",
+    "sand+sun": "desert",
+    "house+stone": "castle",
+    "cloud+earth": "fog",
+    "storm+wind": "tornado",
+    "ocean+storm": "hurricane",
+    "mud+plant": "mushroom",
+    "desert+plant": "cactus",
+    "tree+wind": "leaf",
+    "tree+tree": "forest",
+    "flower+sun": "sunflower",
+    "energy+stone": "diamond",
+    "metal+sun": "gold",
+    "rocket+sky": "fireworks",
+    "ice+star": "comet",
+    "star+star": "galaxy",
+    "moon+rocket": "satellite",
+    "airplane+alien": "ufo",
+    "glass+star": "telescope",
+    "bird+life": "egg",
+    "bird+egg": "chicken",
+    "animal+wheat": "cow",
+    "cow+tool": "milk",
+    "milk+salt": "cheese",
+    "animal+wind": "horse",
+    "animal+human": "dog",
+    "animal+milk": "cat",
+    "flower+life": "butterfly",
+    "animal+flower": "bee",
+    "bee+tree": "honey",
+    "animal+lake": "frog",
+    "bird+snow": "penguin",
+    "fish+ocean": "shark",
+    "horse+rainbow": "unicorn",
+    "human+moon": "werewolf",
+    "human+snow": "snowman",
+    "bird+moon": "owl",
+    "bread+cow": "burger",
+    "bread+milk": "cake",
+    "ice+milk": "icecream",
+    "bread+cheese": "sandwich",
+    "plant+steam": "tea",
+    "fruit+plant": "salad",
+    "bread+honey": "cookie",
+    "campfire+water": "soup",
+    "stone+tool": "road",
+    "metal+road": "car",
+    "car+human": "bus",
+    "human+road": "bicycle",
+    "airplane+tool": "helicopter",
+    "boat+metal": "ship",
+    "house+metal": "tower",
+    "house+house": "town",
+    "town+town": "city",
+    "book+house": "school",
+    "energy+glass": "bulb",
+    "electricity+tool": "battery",
+    "computer+glass": "camera",
+    "camera+electricity": "tv",
+    "computer+phone": "internet",
+    "human+metal": "key",
+    "key+metal": "lock",
+    "energy+metal": "magnet",
+    "magnet+paper": "compass",
+    "compass+paper": "map",
+    "rain+tool": "umbrella",
+    "fire+honey": "candle",
+    "metal+ocean": "anchor",
+    "music+wood": "piano",
+    "electricity+music": "microphone",
+    "music+phone": "headphones",
+    "paper+rainbow": "painting",
+    "camera+human": "movie",
+    "computer+human": "videogame",
+    "gold+human": "crown",
+    "brick+human": "builder",
+    "energy+human": "wizard",
+    "flower+wizard": "fairy",
+    "human+sky": "angel",
+    "castle+human": "princess",
+    "fish+human": "mermaid",
+    "sky+sun": "sunrise",
+    "fire+tree": "ash",
+    "fire+plant": "ash",
+    "fire+leaf": "ash",
+    "fire+forest": "ash",
+    "fire+flower": "ash",
+    "fire+sunflower": "ash",
+    "cactus+fire": "ash",
+    "fire+paper": "ash",
+    "book+fire": "ash",
+    "fire+map": "ash",
+    "fire+painting": "ash",
+    "boat+fire": "ash",
+    "fire+house": "ash",
+    "fire+guitar": "ash",
+    "fire+piano": "ash"
+  }
+}
